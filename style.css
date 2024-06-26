@@ -16,6 +16,8 @@ body{
 background-color: black;
 color: aqua;
 background-image: url(img/dowlond1.jpg);
+background-size: cover;
+background-repeat: no-repeat ;
 }
 
 /*Cabeçalho / Header */
