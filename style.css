@@ -13,9 +13,9 @@
 }
 
 body{
-background-color: rgb(243, 11, 11);
-color: rgba(231, 5, 5, 0);
-background-image: url(img/quais-sao-os-tipos-de-banana.webp);
+background-color: rgb(243, 240, 240);
+color: rgb(241, 233, 233);
+background-image: url(img/dowlond2.jpg);
 background-size: cover;
 background-repeat: no-repeat ;
 }
