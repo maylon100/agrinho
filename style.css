@@ -9,12 +9,12 @@
   --verde-principal: ;
   --azul-principal: ;
   --verde-secundario: ;
-  --link: #0a4804;
+  --link: #0a4804;7
 }
 
 body{
 background-color: black;
-color: aqua;
+color: rgb(3, 10, 10);
 background-image: url(img/dowlond1.jpg);
 background-size: cover;
 background-repeat: no-repeat ;
