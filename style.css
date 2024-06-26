@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+:root {
+  --verde-fundo: ;
+  --fonte-principal: "Lustria";
+  --verde-principal: ;
+  --azul-principal: ;
+  --verde-secundario: ;
+  --link: #0a4804;
+}
+
+body{
+
+}
+
+/*Cabeçalho / Header */
+.cabecalho{
+
+}
+
+
+/*seções comuns ou seção 1*/
+.secao1{
+
+}
+
+
+/*rodapé*/
+.rodape{
+
+}
