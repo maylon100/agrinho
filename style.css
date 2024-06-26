@@ -28,6 +28,7 @@ background-repeat: no-repeat ;
 
 /*seções comuns ou seção 1*/
 .secao1{
+  background-color: aliceblue;
 font-size: 40px;
 text-align: initial;
 }
@@ -39,6 +40,7 @@ text-align: initial;
 
 }
 h1{
+  background-color: aliceblue;
   text-align: center;
   font-size: 50px;
 }
