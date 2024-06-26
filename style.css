@@ -14,7 +14,7 @@
 
 body{
 background-color: rgb(70, 8, 8);
-color: rgb(235, 127, 127);
+color: rgb(255, 255, 255);
 background-image: url(img/dowlond2.jpg);
 background-size: cover;
 background-repeat: no-repeat ;
@@ -41,6 +41,9 @@ text-align: initial;
 h1{
   text-align: center;
   font-size: 50px;
+}
+.h6{
+  text-align: center;
 }
 .img{
   text-align: center;
