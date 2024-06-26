@@ -32,7 +32,21 @@ background-repeat: no-repeat ;
 font-size: 40px;
 text-align: initial;
 }
-
+.secao2{
+  background-color: rgb(1, 8, 14);
+  font-size: 40px;
+  text-align: initial;
+}
+.secao3{
+  background-color: rgb(1, 8, 14);
+  font-size: 40px;
+  text-align: initial;
+}
+.secao4{
+  background-color: rgb(1, 8, 14);
+  font-size: 40px;
+  text-align: initial;
+}
 
 
 /*rodapé*/
