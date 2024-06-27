@@ -13,7 +13,7 @@
 }
 
 body{
-color: rgb(255, 255, 255);
+color: rgb(255, 0, 0);
 background-image: url(img/deliciosas-bananas-na-natureza\ \(1\).jpg);
 background-size: cover;
 background-repeat: no-repeat ;
@@ -58,5 +58,5 @@ h1{
   font-size: 60px;
 }
 .img{
-  
+
 }
