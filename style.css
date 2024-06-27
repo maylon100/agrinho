@@ -28,22 +28,22 @@ background-repeat: no-repeat ;
 /*seções comuns ou seção 1*/
 .secao1{
   background-color: rgb(1, 8, 14);
-font-size: 40px;
+font-size: 30px;
 text-align: center;
 }
 .secao2{
   background-color: rgb(1, 8, 14);
-  font-size: 10000px;
+  font-size: 30px;
   text-align: center;
 }
 .secao3{
   background-color: rgb(1, 8, 14);
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
 }
 .secao4{
   background-color: rgb(1, 8, 14);
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
 }
 
