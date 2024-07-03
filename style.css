@@ -46,7 +46,11 @@ text-align: center;
   font-size: 30px;
   text-align: center;
 }
-
+.secao5{
+  background-color: rgb(1, 8, 14);
+  font-size: 30px;
+  text-align: center;
+}
 
 /*rodapé*/
 .rodape{
