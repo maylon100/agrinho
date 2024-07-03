@@ -28,28 +28,27 @@ background-repeat: no-repeat ;
 /*seções comuns ou seção 1*/
 .secao1{
   background-color: rgb(1, 8, 14);
-font-size: 30px;
+font-size: 20px;
 text-align: center;
 }
 .secao2{
   background-color: rgb(1, 8, 14);
-  font-size: 31px;
+  font-size: 20px;
   text-align: center;
 }
 .secao3{
   background-color: rgb(1, 8, 14);
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
 }
 .secao4{
   background-color: rgb(1, 8, 14);
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
 }
 .secao5{
   background-color: rgb(1, 8, 14);
-  font-size: 30px;
-}
+  font-size: 20px;}
 
 /*rodapé*/
 .rodape{
