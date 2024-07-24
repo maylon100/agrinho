@@ -24,5 +24,3 @@
     // window.location.href = 'pagina_principal.html';
   }
 </script>
-</body>
-</html>
