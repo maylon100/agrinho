@@ -87,3 +87,7 @@ h1 {
   font-size: 30px;
   text-align: center;
 }
+/*java script estilização*/
+#nome-usuário{
+  font-weight: bold;    
+}
