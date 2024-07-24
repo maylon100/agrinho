@@ -89,5 +89,6 @@ h1 {
 }
 /*java script estilização*/
 #nome-usuário{
-  font-weight: bold;    
+  font-weight: bold; 
+  color: rgb(255, 255, 255);   
 }
