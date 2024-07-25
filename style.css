@@ -28,7 +28,7 @@ body {
 
 /*seções comuns ou seção 1*/
 .secao1 {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(1, 8, 14);
   font-size: 20px;
   text-align: center;
   width: 70%;
@@ -43,47 +43,18 @@ body {
   margin-bottom: 20px;
 }
 
-.secao2 {
-  background-color: rgb(1, 8, 14);
-  font-size: 20px;
-  text-align: center;
-  max-width: 1400px;  /* Largura máxima da seção */
-  margin: 0 auto;  /* Centraliza a seção na página */
-  box-shadow: 0 0 10px rgba(255, 255, 255, 0.87);  /* Sombra suave para destacar a seção */
-  border-radius: 5px;
-  margin-bottom: 20px;
-
-}
-
-.secao3 {
-  background-color: rgb(255, 255, 255);
-  font-size: 20px;
-  text-align: center; width: 70%;
-  border-radius: 10px;
-}
-
-.secao4 {
-  background-color: rgb(255, 255, 255);
-  font-size: 20px;
-  text-align: center;
-}
-
-.secao5 {
-  background-color: rgb(255, 255, 255);
-  font-size: 20px;
-}
 
 /*rodapé*/
-.rodape {}
+.rodape { oi tudo bem}
 
 h1 {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
   text-align: center;
   font-size: 60px;
 }
 
 .li {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(1, 8, 14);
   font-size: 30px;
   text-align: center;
 }
